@@ -4,5 +4,6 @@ CREATE TABLE bears (
   gender TEXT,
   color TEXT,
   temperament TEXT,
-  alive 
+  alive BOOLEAN,
+  
   )
